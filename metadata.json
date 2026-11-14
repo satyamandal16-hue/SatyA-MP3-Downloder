@@ -1,0 +1,6 @@
+{
+  "name": "SatyA",
+  "description": "High-speed multi-threaded download manager for Android and PC LAN transfer with HD MP3 audio, HD/4K video downloader, built-in media sniffer browser, and pause/resume acceleration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

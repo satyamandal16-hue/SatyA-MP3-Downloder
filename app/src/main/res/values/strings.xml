@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SatyA</string>
+    <string name="tagline_open_edition">Open Multi-Thread Engine • PC &amp; Mobile</string>
+    <string name="nav_queue">Queue</string>
+    <string name="nav_grabber">Grabber</string>
+    <string name="nav_vault">Vault</string>
+    <string name="nav_engine">Engine</string>
+    <string name="action_new_download">New Download</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_resume">Resume</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_play">Play</string>
+    <string name="action_open">Open</string>
+    <string name="action_share">Share</string>
+    <string name="action_delete">Delete</string>
+    <string name="notification_channel_name">SatyA Transfers</string>
+    <string name="notification_channel_desc">Live multi-segment download speed and completion alerts</string>
+</resources>
